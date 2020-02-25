@@ -22,5 +22,6 @@ public class Employee {
 	private Integer age;
 	private String dep;
 	private Float salary;
+	private Integer jd;
 
 }
